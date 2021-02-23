@@ -1,10 +1,10 @@
 
 
-1. TeslaBlogger adinda bir blank solution açilir.
+1. TeslaBlogger adinda bir blank solution aÃ§ilir.
 
 2. ASP.NET Core 3.1 Web Application (MVC) projesi eklenir.
 
-	2.1. Views->Home klasorunun icindeki Index view'a request aticagimiz api için ajax ile Get() fonksiyonu yazilir ve gelen verileri dolduracağımız html kodlari yazilir.
+	2.1. Views->Home klasorunun icindeki Index view'a request aticagimiz api iÃ§in ajax ile Get() fonksiyonu yazilir ve gelen verileri dolduracagimiz html kodlari yazilir.
 
 	<div class=" row">
     <div class=" col-sm-12">
@@ -64,4 +64,4 @@
     }
 </script>
 
-Projenin amacı : https://newsapi.org/ adresinden hazirlanmis olan api'lerden birine request atarak datalari "get" etmek ve bu işlemi ajax yöntemiyle gerçekleştiriyoruz.
+Projenin amaci : https://newsapi.org/ adresinden hazirlanmis olan api'lerden birine request atarak datalari "get" etmektir.Bu islemi ajax yÃ¶ntemiyle gerÃ§eklestiriyoruz.
