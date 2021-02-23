@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeslaBlogger", "TeslaBlogger\TeslaBlogger.csproj", "{3DEF334B-E077-4F28-BF6A-C2B8D08D5516}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{741F2E94-195A-477B-BCF9-84666D8333D8}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEF334B-E077-4F28-BF6A-C2B8D08D5516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEF334B-E077-4F28-BF6A-C2B8D08D5516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEF334B-E077-4F28-BF6A-C2B8D08D5516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEF334B-E077-4F28-BF6A-C2B8D08D5516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4110DD06-0510-4C02-B87D-C7DEC6E9AE82}
+	EndGlobalSection
+EndGlobal
